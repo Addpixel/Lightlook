@@ -1,0 +1,20 @@
+{
+  "name": "lightlook",
+  "version": "0.1.1",
+  "description": "Lightlook is a fast, touch- and keyboard friendly light-box for modern webbrowsers. It’s less than 3kb minified and gzipped and does not require any dependencies.",
+  "main": "lightlook.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Addpixel/Lightlook.git"
+  },
+  "keywords": [
+    "lightbox",
+    "dependency-free"
+  ],
+  "author": "Florian Pircher <florian@addpixel.net> (https://addpixel.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Addpixel/Lightlook/issues"
+  },
+  "homepage": "https://addpixel.net/lightlook/"
+}
